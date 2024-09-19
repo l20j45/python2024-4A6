@@ -1,0 +1,92 @@
+[
+    {
+        "id": 14,
+        "created_at": "2024-09-16T12:23:41.896+00:00",
+        "setPreguntas": "set2",
+        "pregunta": " Otras personas han dependido de",
+        "respuesta1": "Mis conocimientos e intuición",
+        "respuesta2": "Mi fortaleza y determinación",
+        "idPregunta": "11"
+    },
+    {
+        "id": 15,
+        "created_at": "2024-09-16T12:23:41.896+00:00",
+        "setPreguntas": "set2",
+        "pregunta": " He dado la impresión de",
+        "respuesta1": "No ser muy seguro de mi mismo",
+        "respuesta2": "Ser demasiado seguro de mi mismo",
+        "idPregunta": "12"
+    },
+    {
+        "id": 16,
+        "created_at": "2024-09-16T12:23:41.896+00:00",
+        "setPreguntas": "set2",
+        "pregunta": " He estado mas orientado a",
+        "respuesta1": "Las relaciones que a las metas",
+        "respuesta2": "Las metas que a las relaciones",
+        "idPregunta": "13"
+    },
+    {
+        "id": 17,
+        "created_at": "2024-09-16T12:23:41.896+00:00",
+        "setPreguntas": "set2",
+        "pregunta": " Cuando se trata de defender mi punto de vista",
+        "respuesta1": "He sido débil",
+        "respuesta2": "He sido fuerte",
+        "idPregunta": "14"
+    },
+    {
+        "id": 18,
+        "created_at": "2024-09-16T12:23:41.896+00:00",
+        "setPreguntas": "set2",
+        "pregunta": " Me ha sido difícil",
+        "respuesta1": "Dejar de considerar alternativas y hacer algo concreto",
+        "respuesta2": "Tomar las cosas con calma y ser mas flexible",
+        "idPregunta": "15"
+    },
+    {
+        "id": 19,
+        "created_at": "2024-09-16T12:23:41.896+00:00",
+        "setPreguntas": "set2",
+        "pregunta": " He tenido la tendencia a ser",
+        "respuesta1": "Cuidadoso e indeciso",
+        "respuesta2": "Atrevido y Dominante",
+        "idPregunta": "16"
+    },
+    {
+        "id": 20,
+        "created_at": "2024-09-16T12:23:41.896+00:00",
+        "setPreguntas": "set2",
+        "pregunta": " He tenido problemas con la gente por",
+        "respuesta1": "Mi resistencia a comprometerme",
+        "respuesta2": "Hacer que dependan de mi",
+        "idPregunta": "17"
+    },
+    {
+        "id": 21,
+        "created_at": "2024-09-16T12:23:41.896+00:00",
+        "setPreguntas": "set2",
+        "pregunta": " Cuando se trata de mis sentimientos",
+        "respuesta1": "Lo he tenido que hacer a un lado para realizar mi trabajo",
+        "respuesta2": "Los he tenido que analizar para poder seguir adelante",
+        "idPregunta": "18"
+    },
+    {
+        "id": 22,
+        "created_at": "2024-09-16T12:23:41.896+00:00",
+        "setPreguntas": "set2",
+        "pregunta": " Generalmente he sido",
+        "respuesta1": "Metódico y precavido",
+        "respuesta2": "Aventurero y he tomado riesgos",
+        "idPregunta": "19"
+    },
+    {
+        "id": 23,
+        "created_at": "2024-09-16T12:23:41.896+00:00",
+        "setPreguntas": "set2",
+        "pregunta": " He sido una persona",
+        "respuesta1": "Generosa, que da apoyo y busca intimidad con otros",
+        "respuesta2": "Seria y reservada que le gusta discutir sobre cualquier tema",
+        "idPregunta": "20"
+    }
+]
